@@ -1156,3 +1156,17 @@
 		{
 			background-color: #cacacf;
 		}
+
+#registerline a {
+  text-align: center;
+}
+
+#registerline a {
+  text-transform: uppercase;
+  font-size: xx-large !important;
+  border: 1px solid gray;
+  padding: 4px 10px 7px 10px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+}
