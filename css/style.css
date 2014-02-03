@@ -1157,11 +1157,11 @@
 			background-color: #cacacf;
 		}
 
-#registerline a {
+#registerline a#registerlink {
   text-align: center;
 }
 
-#registerline a {
+#registerline a#registerlink {
   text-transform: uppercase;
   font-size: xx-large !important;
   border: 1px solid gray;
