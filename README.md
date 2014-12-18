@@ -1,4 +1,4 @@
-Global Game Jam Berlin 2014
+Global Game Jam Berlin 2015
 ---------------------------
 
 
