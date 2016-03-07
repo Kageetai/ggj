@@ -504,11 +504,23 @@
 				margin: 0;
 				padding: 1em 0 1em 0;
 				font-size: 0.8em;
+				transition: all 0.5s;
 			}
+
+				.item:hover header {
+					background-color: #444;
+					transition: all 0.5s;
+				}
+
+				.item:hover header h3 {
+					color: white;
+					transition: all 0.5s;
+				}
 
 				.item header h3
 				{
 					font-size: 1em;
+					transition: all 0.5s;
 				}
 
 /*********************************************************************************/
