@@ -1,6 +1,5 @@
-Global Game Jam Berlin 2015
+Global Game Jam Berlin
 ---------------------------
-
 
 Website.
 
