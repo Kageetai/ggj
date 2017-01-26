@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Global Game Jam 2017",
+    "description": "The 2016 edition took place at Wooga between the 29rd and 31th of January.<br/> The theme was <a href=\"https://www.youtube.com/watch?v=ynljZUmJv2U\">\"Waves\"</a>.",
+    "banner": "images/panorama/global_game_jam_berlin_2016.jpg",
+    "games": [
+      {
+        "name": "A Bathroom Threesome",
+        "link": "http://globalgamejam.org/2017/games/bathroom-threesome",
+        "image": "http://ggj.s3.amazonaws.com/styles/game_sidebar__wide/s3/game/featured_image/ggj2017_result_presentation.jpg?itok=K2rVvLXi"
+      },
+      {
+        "name": "A Viking Vacation",
+        "link": "http://globalgamejam.org/2017/games/viking-vacation",
+        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/game/featured_image/viking_vacation_test.png?itok=jHjyksTF"
+      },
+      {
+        "name": "Bario Cruiser",
+        "link": "http://globalgamejam.org/2017/games/bario-cruiser",
+        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/games/team_pictures/photogrid_1485097892996.png?itok=G6Mo-dte"
+      },
+      {
+        "name": "Being famous is hard",
+        "link": "http://globalgamejam.org/2017/games/being-famous-hard",
+        "image": "http://ggj.s3.amazonaws.com/styles/game_sidebar__narrow/s3/game/featured_image/titlescreen_7.png?itok=obF37oaT"
+      },
+      {
+        "name": "Boat Baby",
+        "link": "http://globalgamejam.org/2017/games/boat-baby",
+        "image": "http://ggj.s3.amazonaws.com/styles/game_sidebar__narrow/s3/game/featured_image/press_5.png?itok=yzruQqIB"
+      },
+      {
+        "name": "CannonBabies",
+        "link": "http://globalgamejam.org/2017/games/cannonbabies",
+        "image": "http://ggj.s3.amazonaws.com/styles/game_sidebar__narrow/s3/game/featured_image/cannonbabies_menu.png?itok=r3ocrOQz"
+      },
+      {
+        "name": "Castawaves",
+        "link": "http://globalgamejam.org/2017/games/castawaves",
+        "image": "http://ggj.s3.amazonaws.com/styles/game_sidebar__narrow/s3/game/featured_image/slide1b.png?itok=udhiYEdM"
+      },
+      {
+        "name": "CAT?!MEOW!1",
+        "link": "http://globalgamejam.org/2017/games/catmeow1",
+        "image": "http://ggj.s3.amazonaws.com/styles/game_sidebar__narrow/s3/game/featured_image/screen_04.png?itok=HpMjRQ0R"
+      },
+      {
+        "name": "Conductor Quest",
+        "link": "http://globalgamejam.org/2017/games/conductor-quest",
+        "image": "http://ggj.s3.amazonaws.com/styles/game_sidebar__narrow/s3/game/featured_image/screenshot_2017-01-23-15-08-41.png?itok=Fgwb4WAK"
+      },
+      {
+        "name": "Don't Make Waves",
+        "link": "http://globalgamejam.org/2017/games/dont-make-waves",
+        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/game/featured_image/2017-01-22-pm_02_05_08_0.png?itok=AebKT3DI"
+      },
+      {
+        "name": "Hyper Bat Simulator",
+        "link": "http://globalgamejam.org/2017/games/hyper-bat-simulator",
+        "image": "http://ggj.s3.amazonaws.com/styles/game_sidebar__narrow/s3/game/featured_image/batsimulatortitlesplash.png?itok=KAaNi0hE"
+      },
+      {
+        "name": "Mahalo Bay",
+        "link": "http://globalgamejam.org/2017/games/mahalo-bay",
+        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/game/featured_image/commart2.png?itok=y9qJVkUB"
+      },
+      {
+        "name": "MicroWave",
+        "link": "http://globalgamejam.org/2017/games/microwave1",
+        "image": "http://globalgamejam.org/system/files/styles/game_content__narrow/s3/games/screenshots/03_2.jpg?itok=UURjJu0t"
+      },
+      {
+        "name": "Note Boy: Sad Jazzter's Castle",
+        "link": "http://globalgamejam.org/2017/games/note-boy-sad-jazzters-castle",
+        "image": "http://ggj.s3.amazonaws.com/styles/game_sidebar__narrow/s3/game/featured_image/screenshot_intro_with_title.png?itok=FR5WTTm8"
+      },
+      {
+        "name": "Photong VR",
+        "link": "http://globalgamejam.org/2017/games/photong-vr",
+        "image": "http://ggj.s3.amazonaws.com/styles/game_sidebar__narrow/s3/game/featured_image/photon_logo_colour.png?itok=HFgiQL4m"
+      },
+      {
+        "name": "Robinson",
+        "link": "http://globalgamejam.org/2017/games/robinson",
+        "image": "http://globalgamejam.org/system/files/styles/user_profile_picture_large__narrow/s3/user/facebook_picture_32x32.png?itok=wG6Yk9vb"
+      },
+      {
+        "name": "Rocky Weather",
+        "link": "http://globalgamejam.org/2017/games/rocky-weather",
+        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/game/featured_image/rocky.jpg?itok=vG7suXnt"
+      },
+      {
+        "name": "Ship It",
+        "link": "http://globalgamejam.org/2017/games/ship-it",
+        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/game/featured_image/key_image.jpg?itok=hRDE489e"
+      },
+      {
+        "name": "Sine Rider",
+        "link": "http://globalgamejam.org/2017/games/sine-rider-0",
+        "image": "http://ggj.s3.amazonaws.com/styles/game_sidebar__narrow/s3/game/featured_image/screenshot-4.png?itok=xFNb0m_W"
+      },
+      {
+        "name": "The Mayoral Election of Weverville",
+        "link": "http://globalgamejam.org/2017/games/mayoral-election-weverville",
+        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/game/featured_image/themayoralelectionofwevervillescreenshot2.png?itok=p2FunRk2"
+      },
+      {
+        "name": "Total Tsunami",
+        "link": "http://globalgamejam.org/2017/games/total-tsunami",
+        "image": "http://ggj.s3.amazonaws.com/styles/game_sidebar__narrow/s3/game/featured_image/titleimage_0.jpg?itok=ynjIFWGo"
+      },
+      {
+        "name": "Tub Toys (or: \"laser rubber ducks in your bath tub\")",
+        "link": "http://globalgamejam.org/2017/games/tub-toys-or-laser-rubber-ducks-your-bath-tub",
+        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/game/featured_image/title_57.png?itok=MkqzMEOL"
+      },
+      {
+        "name": "undertow",
+        "link": "http://globalgamejam.org/2017/games/undertow",
+        "image": "http://ggj.s3.amazonaws.com/styles/game_sidebar__narrow/s3/game/featured_image/sceneoneopeneyes.png?itok=z1fkzu0U"
+      },
+      {
+        "name": "Wasserscheue Leute mit Hüten rudern um die Wette",
+        "link": "http://globalgamejam.org/2017/games/wasserscheue-leute-mit-h%C3%BCten-rudern-um-die-wette",
+        "image": "http://ggj.s3.amazonaws.com/styles/game_sidebar__narrow/s3/game/featured_image/ingame_1.png?itok=VdgduqMR"
+      },
+      {
+        "name": "Wings of the Dragon",
+        "link": "http://globalgamejam.org/2017/games/wings-dragon",
+        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/game/featured_image/tobeadragon.jpg?itok=6Z5TFDq3"
+      }
+    ]
+  }
+]

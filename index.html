@@ -21,9 +21,63 @@
     <!--[if lte IE 8]>
     <script src="js/html5shiv.js"></script><![endif]-->
     <script src="js/jquery.min.js"></script>
+    <script src="js/jsrender.js"></script>
     <script src="js/skel.min.js"></script>
     <script src="js/skel-panels.min.js"></script>
     <script src="js/init.js"></script>
+    <script src="js/past-editions.js"></script>
+
+    <script id="past-editions-template" type="text/x-jsrender">
+    <div>
+        <img class="image featured" src="{{:banner}}" />
+        <header><h3>{{:name}}</h3></header>
+        <p>{{:description}}</p>
+        <div class="row">
+            <div class="4u">
+                {{for games}}
+                {{if #index % 3 == 0}}
+                    <article class="item">
+                        <a href="{{:link}}">
+                            <img class="image screenshot"
+                                src="{{:image}}" />
+                            <header><h3>{{:name}}</h3></header>
+                        </a>
+                    </article>
+                {{/if}}
+                {{/for}}
+            </div>
+
+            <div class="4u">
+                {{for games}}
+                {{if #index % 3 == 1}}
+                    <article class="item">
+                        <a href="{{:link}}">
+                            <img class="image screenshot"
+                                src="{{:image}}" />
+                            <header><h3>{{:name}}</h3></header>
+                        </a>
+                    </article>
+                {{/if}}
+                {{/for}}
+            </div>
+
+            <div class="4u">
+                {{for games}}
+                {{if #index % 3 == 2}}
+                    <article class="item">
+                        <a href="{{:link}}">
+                            <img class="image screenshot"
+                                src="{{:image}}" />
+                            <header><h3>{{:name}}</h3></header>
+                        </a>
+                    </article>
+                {{/if}}
+                {{/for}}
+            </div>
+        </div>
+    </div>
+    <hr style="margin-bottom:3em"/>
+    </script>
     <noscript>
         <link rel="stylesheet" href="css/skel-noscript.css"/>
         <link rel="stylesheet" href="css/style.css"/>
@@ -383,6 +437,8 @@
                 <h2>Past editions</h2>
             </header>
 
+            <div id="past-editions"></div>
+
             <div> <!--ggj16-->
 
                 <img class="image featured" src="images/panorama/global_game_jam_berlin_2016.jpg" alt=""/>
@@ -391,13 +447,7 @@
                     <h3>Global Game Jam 2016</h3>
                 </header>
 
-                <p> The 2016 edition took place at Wooga between the 29rd and 31th of January.<br/> The theme was "Ritual".<br/>
-                    <!--Media: <a-->
-                            <!--href="https://www.youtube.com/watch?v=jBFO1E57RMo&list=PLw4PA32s7H561VWk2K4q8t-SUMVATOizv">[Presentations]</a>-->
-                    <!--<a href="https://www.youtube.com/watch?v=ajlQG1rdRLA">[Vines]</a>-->
-                    <!--<a href="https://www.youtube.com/watch?v=_9KVdodYBm0">[Interviews]</a>-->
-                    <!--<a href="https://www.flickr.com/photos/qubodup/sets/72157650160415440/">[Photos]</a>-->
-                </p>
+                <p>The 2016 edition took place at Wooga between the 29rd and 31th of January.<br/> The theme was "Ritual".</p>
 
                 <div class="row">
                     <div class="4u">
