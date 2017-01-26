@@ -1,7 +1,7 @@
 [
   {
     "name": "Global Game Jam 2017",
-    "description": "The 2016 edition took place at Wooga between the 29rd and 31th of January.<br/> The theme was <a href=\"https://www.youtube.com/watch?v=ynljZUmJv2U\">\"Waves\"</a>.",
+    "description": "The 2017 edition took place at Wooga between the 20th and 22nd of January.<br/> The theme was <a href=\"https://www.youtube.com/watch?v=ynljZUmJv2U\">\"Waves\"</a>.",
     "banner": "images/panorama/global_game_jam_berlin_2016.jpg",
     "games": [
       {
@@ -78,11 +78,6 @@
         "name": "Photong VR",
         "link": "http://globalgamejam.org/2017/games/photong-vr",
         "image": "http://ggj.s3.amazonaws.com/styles/game_sidebar__narrow/s3/game/featured_image/photon_logo_colour.png?itok=HFgiQL4m"
-      },
-      {
-        "name": "Robinson",
-        "link": "http://globalgamejam.org/2017/games/robinson",
-        "image": "http://globalgamejam.org/system/files/styles/user_profile_picture_large__narrow/s3/user/facebook_picture_32x32.png?itok=wG6Yk9vb"
       },
       {
         "name": "Rocky Weather",
