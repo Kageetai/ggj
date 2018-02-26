@@ -12,12 +12,12 @@
       {
         "name": "A Viking Vacation",
         "link": "http://globalgamejam.org/2017/games/viking-vacation",
-        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/game/featured_image/viking_vacation_test.png?itok=jHjyksTF"
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/game/featured_image/viking_vacation_test.png?itok=SNltrS85&timestamp=1485089005"
       },
       {
         "name": "Bario Cruiser",
         "link": "http://globalgamejam.org/2017/games/bario-cruiser",
-        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/games/team_pictures/photogrid_1485097892996.png?itok=G6Mo-dte"
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/game/featured_image/bariocruiser.png?itok=iv06MwfZ&timestamp=1485174812"
       },
       {
         "name": "Being famous is hard",
@@ -52,7 +52,7 @@
       {
         "name": "Don't Make Waves",
         "link": "http://globalgamejam.org/2017/games/dont-make-waves",
-        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/game/featured_image/2017-01-22-pm_02_05_08_0.png?itok=AebKT3DI"
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/game/featured_image/2017-01-22-pm_02_05_08_0.png?itok=BlWCvrUU&timestamp=1485273055"
       },
       {
         "name": "Hyper Bat Simulator",
@@ -62,12 +62,12 @@
       {
         "name": "Mahalo Bay",
         "link": "http://globalgamejam.org/2017/games/mahalo-bay",
-        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/game/featured_image/commart2.png?itok=y9qJVkUB"
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/game/featured_image/commart2.png?itok=O7zQqnKj&timestamp=1485101435"
       },
       {
         "name": "MicroWave",
-        "link": "http://globalgamejam.org/2017/games/microwave1",
-        "image": "http://globalgamejam.org/system/files/styles/game_content__narrow/s3/games/screenshots/03_2.jpg?itok=UURjJu0t"
+        "link": "https://globalgamejam.org/2017/games/microwave-1",
+        "image": "https://globalgamejam.org/amazons3/image-derivative/ggj/styles/feature_image__normal/games/screenshots/03_2.jpg?itok=5_azL0Ao&timestamp=1485100897"
       },
       {
         "name": "Note Boy: Sad Jazzter's Castle",
@@ -82,12 +82,12 @@
       {
         "name": "Rocky Weather",
         "link": "http://globalgamejam.org/2017/games/rocky-weather",
-        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/game/featured_image/rocky.jpg?itok=vG7suXnt"
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/game/featured_image/rocky.jpg?itok=drI0n5Bp&timestamp=1484996576"
       },
       {
         "name": "Ship It",
         "link": "http://globalgamejam.org/2017/games/ship-it",
-        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/game/featured_image/key_image.jpg?itok=hRDE489e"
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/game/featured_image/key_image.jpg?itok=Q-ovfQVF&timestamp=1485093446"
       },
       {
         "name": "Sine Rider",
@@ -97,7 +97,7 @@
       {
         "name": "The Mayoral Election of Weverville",
         "link": "http://globalgamejam.org/2017/games/mayoral-election-weverville",
-        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/game/featured_image/themayoralelectionofwevervillescreenshot2.png?itok=p2FunRk2"
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/game/featured_image/themayoralelectionofwevervillescreenshot2.png?itok=248iU9om&timestamp=1485258068"
       },
       {
         "name": "Total Tsunami",
@@ -107,7 +107,7 @@
       {
         "name": "Tub Toys (or: \"laser rubber ducks in your bath tub\")",
         "link": "http://globalgamejam.org/2017/games/tub-toys-or-laser-rubber-ducks-your-bath-tub",
-        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/game/featured_image/title_57.png?itok=MkqzMEOL"
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/game/featured_image/title_57.png?itok=tz_Zg-l4&timestamp=1485083384"
       },
       {
         "name": "undertow",
@@ -122,7 +122,7 @@
       {
         "name": "Wings of the Dragon",
         "link": "http://globalgamejam.org/2017/games/wings-dragon",
-        "image": "http://globalgamejam.org/system/files/styles/game_sidebar__narrow/s3/game/featured_image/tobeadragon.jpg?itok=6Z5TFDq3"
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/game/featured_image/tobeadragon.jpg?itok=enLSd4yQ&timestamp=1485089974"
       }
     ]
   }
