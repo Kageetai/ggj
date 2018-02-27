@@ -37,8 +37,7 @@
                 {{if #index % 3 == 0}}
                     <article class="item">
                         <a href="{{:link}}">
-                            <img class="image screenshot"
-                                src="{{:image}}" />
+                            {{if image}}<img class="image screenshot" src="{{:image}}" />{{/if}}
                             <header><h3>{{:name}}</h3></header>
                         </a>
                     </article>
@@ -51,8 +50,7 @@
                 {{if #index % 3 == 1}}
                     <article class="item">
                         <a href="{{:link}}">
-                            <img class="image screenshot"
-                                src="{{:image}}" />
+                            {{if image}}<img class="image screenshot" src="{{:image}}" />{{/if}}
                             <header><h3>{{:name}}</h3></header>
                         </a>
                     </article>
@@ -65,8 +63,7 @@
                 {{if #index % 3 == 2}}
                     <article class="item">
                         <a href="{{:link}}">
-                            <img class="image screenshot"
-                                src="{{:image}}" />
+                            {{if image}}<img class="image screenshot" src="{{:image}}" />{{/if}}
                             <header><h3>{{:name}}</h3></header>
                         </a>
                     </article>

@@ -1,5 +1,143 @@
 [
   {
+    "name": "Global Game Jam 2018",
+    "description": "The 2018 edition took place at the SAE Institute between the 26th and 28th of January.<br/>The theme was <a href=\"https://www.youtube.com/watch?v=3Roxls_2W2M\">\"Transmission\"</a>.",
+    "banner": "",
+    "games": [
+      {
+        "name": "Always on Static",
+        "link": "https://globalgamejam.org/2018/games/always-static",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/game/featured_image/feature_40.png?itok=_GPwJTE7&timestamp=1517153475"
+      },
+      {
+        "name": "Bee-Friend",
+        "link": "https://globalgamejam.org/2018/games/bee-friend",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__wide/game/featured_image/still_0.png?itok=WLFtObla&timestamp=1517081513"
+      },
+      {
+        "name": "Body Mutilation",
+        "link": "https://globalgamejam.org/2018/games/body-mutilation",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__wide/game/featured_image/screengrab1stscene.png?itok=Jku0zcIP&timestamp=1517217671"
+      },
+      {
+        "name": "Chain Reaction",
+        "link": "https://globalgamejam.org/2018/games/chain-reaction"
+      },
+      {
+        "name": "Crystal Arena VR",
+        "link": "https://globalgamejam.org/2018/games/crystal-arena-vr",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/crystalarenavr.jpg?itok=l3K_kpbq&timestamp=1517151965"
+      },
+      {
+        "name": "Don't Shoot the Messenger",
+        "link": "https://globalgamejam.org/2018/games/dont-shoot-messenger-0",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/gameplay_dontshoot.png?itok=RBv44CSe&timestamp=1517235818"
+      },
+      {
+        "name": "Drunk Orchestra Versus",
+        "link": "https://globalgamejam.org/2018/games/drunk-orchestra-versus",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/drunk_orchestra_versus_splash.jpg?itok=nRhfUpD1&timestamp=1517226486"
+      },
+      {
+        "name": "DungeonsCreed",
+        "link": "https://globalgamejam.org/2018/games/dungeonscreed",
+        "image": "https://ggj.s3.amazonaws.com/styles/feature_image__wide/games/screenshots/run01.gif?itok=8kHO61wI&timestamp=1517071052"
+      },
+      {
+        "name": "Fantastic Sniffles",
+        "link": "https://globalgamejam.org/2018/games/fantastic-sniffles",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/banner_9.png?itok=ZrKqyHiz&timestamp=1517215591"
+      },
+      {
+        "name": "Fireflies",
+        "link": "https://globalgamejam.org/2018/games/fireflies"
+      },
+      {
+        "name": "Groove Train",
+        "link": "https://globalgamejam.org/2018/games/groove-train",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/27398944_1671938502869711_236405705_o.png?itok=wUqmvmVX&timestamp=1517147125"
+      },
+      {
+        "name": "Holoshoot Game",
+        "link": "https://globalgamejam.org/2018/games/holoshoot-game",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/games/team_pictures/img_2684.jpg?itok=duzMS5LS&timestamp=1517140214"
+      },
+      {
+        "name": "Last Mistake 5: The Lazering",
+        "link": "https://globalgamejam.org/2018/games/last-mistake-5-lazering",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/gggj_titlescreen.jpg?itok=o8fcs3zG&timestamp=1517151281"
+      },
+      {
+        "name": "LightMind",
+        "link": "https://globalgamejam.org/2018/games/lightmind"
+      },
+      {
+        "name": "me me ME",
+        "link": "https://globalgamejam.org/2018/games/me-me-me",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/games/team_pictures/ritratti_lomba.jpg?itok=fDWikmXN&timestamp=1517103625"
+      },
+      {
+        "name": "Out of the Pigture",
+        "link": "https://globalgamejam.org/2018/games/out-pigture",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/title_screen_49.png?itok=WAjdm_EL&timestamp=1517144175"
+      },
+      {
+        "name": "Rumr",
+        "link": "https://globalgamejam.org/2018/games/rumr",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/screen_1_1.png?itok=-51UCa44&timestamp=1517151238"
+      },
+      {
+        "name": "RuthLess",
+        "link": "https://globalgamejam.org/2018/games/ruthless",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/ruthless.jpg?itok=ruMZACbR&timestamp=1517177888"
+      },
+      {
+        "name": "Signals",
+        "link": "https://globalgamejam.org/2018/games/signals-1",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/untitled-1_16.png?itok=52iTPxVW&timestamp=1517149472"
+      },
+      {
+        "name": "Spyder Web",
+        "link": "https://globalgamejam.org/2018/games/spyder-web",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/spiderweb02.png?itok=W7nxXpNT&timestamp=1517180437"
+      },
+      {
+        "name": "TAR - Transmit, Absorb, Reflect",
+        "link": "https://globalgamejam.org/2018/games/tar-transmit-absorb-reflect",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/feature_34.png?itok=luwoWRKp&timestamp=1517150821"
+      },
+      {
+        "name": "The Blame Game",
+        "link": "https://globalgamejam.org/2018/games/blame-game",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/gameplay1.png?itok=Thq5TRwM&timestamp=1517083659"
+      },
+      {
+        "name": "The Final Countdown: Pogo Edition",
+        "link": "https://globalgamejam.org/2018/games/final-countdown-pogo-edition",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/pogo-feature_0.png?itok=q7Irg8wR&timestamp=1517178466"
+      },
+      {
+        "name": "The Guardian",
+        "link": "https://globalgamejam.org/2018/games/guardian"
+      },
+      {
+        "name": "The Paper Boat that Rocked",
+        "link": "https://globalgamejam.org/2018/games/paper-boat-rocked",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/ss-cover.png?itok=J1YiBuqh&timestamp=1517147195"
+      },
+      {
+        "name": "The Walls of ICE",
+        "link": "https://globalgamejam.org/2018/games/walls-ice",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/2018-01-28_0.png?itok=ThGVq6uR&timestamp=1517218548"
+      },
+      {
+        "name": "TransMaze",
+        "link": "https://globalgamejam.org/2018/games/transmaze",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/title_screen_55.png?itok=-0JnFa3a&timestamp=1517151958"
+      }
+    ]
+  },
+  {
     "name": "Global Game Jam 2017",
     "description": "The 2017 edition took place at Wooga between the 20th and 22nd of January.<br/>The theme was <a href=\"https://www.youtube.com/watch?v=ynljZUmJv2U\">\"Waves\"</a>. <a href=\"https://www.youtube.com/playlist?list=PL9d9dxYfupkLIzXlE95P5b_XGuG-Dpys0\" alt=\"Videos\">[Videos]</a>",
     "banner": "",
