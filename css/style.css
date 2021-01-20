@@ -1196,3 +1196,7 @@
   -moz-border-radius: 8px;
   border-radius: 8px;
 }
+
+code {
+	font-family: "Source Code Pro", monospace;
+}
