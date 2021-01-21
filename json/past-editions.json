@@ -1,5 +1,144 @@
 [
   {
+    "name": "Global Game Jam 2020",
+    "description": "The 2020 edition took place at the SAE Institute between the 31st of January and 2nd of February.<br/>The theme was <a href=\"https://youtu.be/8sdcq7CbPsc?t=1281\">\"Repair\"</a>.",
+    "games": [
+      {
+        "link": "https://globalgamejam.org/2020/games/alien-antibodies-8",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/160775/alienantibodys.jpg?itok=0eAG8LvO&amp;timestamp=1580600028",
+        "name": "Alien Antibodies"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/beaverlicious-1",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/151054/bbb_screen-01.jpg?itok=nS7QJZLM&amp;timestamp=1580658413",
+        "name": "Beaverlicious Beaver Battles"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/best-re-parent-ever-7",
+        "name": "BEST RE-PAIRENT EVER"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/cuk-5",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/19253/screenshot_11.png?itok=SPaWlNEv&amp;timestamp=1580652680",
+        "name": "CUK"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/dot-5",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/297044/intro_02.png?itok=MjEykvFB&amp;timestamp=1580547272",
+        "name": "D.O.T."
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/dont-let-them-5",
+        "name": "Don't Let Htem In!"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/dont-repair-buy-new-9",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/268767/logo_ggj_page.png?itok=VNN2oIVS&amp;timestamp=1580595978",
+        "name": "Don't Repair Buy New"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/drone-3",
+        "name": "Drone"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/equilibrium-3",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/234408/bildschirmfoto_2020-02-03_um_04.37.11.png?itok=GMXtg-RW&amp;timestamp=1580701325",
+        "name": "Equilibrium"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/fixiebot-9",
+        "name": "FixieBot"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/fractured-memories-3",
+        "name": "Fractured Memories"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/gisela-simulator-9",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/235789/screenshot.png?itok=6UZL2zHv&amp;timestamp=1580572181",
+        "name": "Gisela Simulator"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/hailey-and-nessa-7",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/212829/screenshot_2020-02-02_at_15.31.26.png?itok=8fp6wtDq&amp;timestamp=1580654087",
+        "name": "Hailey and Nessa"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/lightbulb-thingy-2",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/298339/bildschirmfoto_2020-02-02_um_14.04.30.png?itok=7SQkPydS&amp;timestamp=1580652383",
+        "name": "How Long Does it Take to Change a Lightbulb?"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/hyperslice-8",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/4090/hyperslicetitle.png?itok=kNV_5K0r&amp;timestamp=1580638309",
+        "name": "HyperSlice Repair"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/leadership-training-8",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/177683/gameimage.png?itok=Ja2X99L6&amp;timestamp=1580581356",
+        "name": "Kindergarten Training"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/plant-gotchi-8",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/202327/capture.png?itok=lJP2pIrq&amp;timestamp=1580653158",
+        "name": "Plant-A-Gochi"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/repaironauts-6",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/236076/cover.png?itok=2LiSsXfl&amp;timestamp=1580652427",
+        "name": "Repaironauts"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/rottin-repair-1",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/297879/rottinrepairtitle_1.png?itok=SoQNcBCL&amp;timestamp=1580661824",
+        "name": "Rottin' Repair"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/shelvequake-8",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/236094/shelvequakelogob.png?itok=f7kg1dGz&amp;timestamp=1580652818",
+        "name": "ShelveQuake"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/systemic-rhythm-3",
+        "name": "Systemic Rhythm"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/systemic-rythm-7",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/167095/ggj20project_rejujsboy6.jpg?itok=xYVcuxUW&amp;timestamp=1580654744",
+        "name": "Systemic Rythm - A Music-Making Experience"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/unfucking-things-sketch-0",
+        "name": "Unfucking Things Up - A Sketch"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/untitled-spider-game-board-game-0",
+        "name": "Untitled Spider Game: The Board Game"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/does-spark-joy-questionmark-2",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/90264/capture1_0.png?itok=An8UBlnn&amp;timestamp=1580657388",
+        "name": "Webflix Plus Presents: Now Less Miserable"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/when-are-you-8",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/247790/screen_shot_2020-02-02_at_12.54.53_am_1.png?itok=2GvBl5wG&amp;timestamp=1580603129",
+        "name": "When Are You?"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/wizards-through-time-and-space-0",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/273182/wizardlogo.png?itok=I8N3ddnD&amp;timestamp=1580575907",
+        "name": "Wizards through Time and Space"
+      },
+      {
+        "link": "https://globalgamejam.org/2020/games/wurst-day-ever-1",
+        "image": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/279892/title.png?itok=-HiLes4C&amp;timestamp=1580651475",
+        "name": "Wurst Day Ever"
+      }
+    ]
+
+  },
+  {
     "name": "Global Game Jam 2019",
     "description": "The 2019 edition took place at the SAE Institute between the 25th and 27th of January.<br/>The theme was <a href=\"https://youtu.be/pUohwjq9RkA?t=836\">\"Home\"</a>.",
     "banner": "",
